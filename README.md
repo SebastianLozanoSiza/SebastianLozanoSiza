@@ -1,5 +1,5 @@
 # 💫 Sobre mí
-### ¡Hola! Soy Sebastián Lozano Siza 👋
+### ¡Hola! Soy Sebastian Lozano Siza 👋
 
 Soy un apasionado desarrollador de software con un enfoque en el desarrollo FullStack. Mi objetivo es combinar la creatividad con la tecnología para crear soluciones innovadoras. Aquí hay algunas cosas que me definen:
 
