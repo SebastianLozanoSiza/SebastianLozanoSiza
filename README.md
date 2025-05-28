@@ -32,7 +32,7 @@ Soy un apasionado desarrollador de software con un enfoque en el desarrollo Full
 ## 📫 Contacto
 
 ¿Te interesa colaborar conmigo o tienes una propuesta interesante? ¡Hablemos!  
-Puedes encontrarme en <a href = "https://www.linkedin.com/in/sebastian-lozano-07a03727b">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+Puedes encontrarme en <a href = "https://www.linkedin.com/in/sebastian-lozano-07a03727b">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a><br>
 ¡Espero con ansias lo que el futuro tiene reservado! 
 
 ---
